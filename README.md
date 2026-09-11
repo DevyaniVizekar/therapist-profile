@@ -248,26 +248,12 @@ The interface follows practical accessibility and usability principles:
 - **Vercel** — Deployment
 
 ---
-🔮 Future Improvements
-
-Potential future enhancements include:
-
-📅 Online appointment scheduling
-📩 Contact form integration
-🗓️ Calendar integration
-📝 Digital client intake
-📚 Therapy resources / blog
-💬 Testimonials
-📊 Analytics
-🔍 Further SEO improvements
-♿ WCAG accessibility audit
----
 
 <div align="center">
   
-👩‍💻 Author
+### 👩‍💻 Author
 
-Devyani Vizekar
+**Devyani Vizekar**
 
 💻 Frontend Developer
 
