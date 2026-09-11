@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 Dr. Maya Reynolds — Therapy Practice Website
+# 🌿 Dr. Maya Reynolds - Therapist
 
 ### 🧠 A calm, modern & human-centered therapy experience
 
